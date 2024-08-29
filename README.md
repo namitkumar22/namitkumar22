@@ -33,7 +33,6 @@
 <hr>
 
 <ul>
-<li>Django</li>
 <li>NLP</li>
 <li>DSA</li>
 <li>C++</li>
