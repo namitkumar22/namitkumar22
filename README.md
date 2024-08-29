@@ -10,7 +10,7 @@
 </ul>
 <i><b>Front-End Knowledge</b></i>
 <ul>
-<li>HTML , CSS , Tkinter, Custom Tkinter</li>
+<li>HTML , CSS , Tkinter, Custom Tkinter, Streamlit</li>
 </ul>
 <i><b>Back-End Knowledge</b></i>
 <ul>
@@ -19,7 +19,7 @@
 <li>MySQL</li>
 <li>sqlite3</li>
 </ul>
-<i><b>Moder Technology knowledge<b></i>
+<i><b>Modern Technology knowledge<b></i>
 <ul>
 <li>Object Oriented Programming
 <li>Machine Learning</li>
