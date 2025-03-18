@@ -10,11 +10,12 @@
 </ul>
 <i><b>Front-End Knowledge</b></i>
 <ul>
-<li>HTML , CSS , Tkinter, Custom Tkinter, Streamlit</li>
+<li>HTML , CSS , React, Tkinter, Custom Tkinter, Streamlit</li>
 </ul>
 <i><b>Back-End Knowledge</b></i>
 <ul>
 <li>Python</li>
+<li>Java</li>
 <li>SQL</li>
 <li>MySQL</li>
 <li>sqlite3</li>
