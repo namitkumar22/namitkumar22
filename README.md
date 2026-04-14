@@ -44,7 +44,9 @@
 <hr>
 
 <ul>
-<li>Create a Issue on any of my repositories or <a href="https://www.linkedin.com/in/namit-kumar-dev/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="Namit Kumar" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 10%;"></a></li>
+<li>Create a Issue on any of my repositories or <a href="https://www.linkedin.com/in/namit-kumar-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">
+</a></li>
 </ul>
 
 <hr>
