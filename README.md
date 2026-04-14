@@ -44,9 +44,13 @@
 <hr>
 
 <ul>
-<li>Create a Issue on any of my repositories or <a href="https://www.linkedin.com/in/namit-kumar-dev/">
+<li>You can create an issue on any of my repositories</li>
+<li>
+  <a href="https://www.linkedin.com/in/namit-kumar-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">
-</a></li>
+  </a>
+</li>
+  
 </ul>
 
 <hr>
