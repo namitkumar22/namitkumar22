@@ -77,25 +77,35 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-<a href="https://github.com/namitkumar22/Minori-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=namitkumar22&repo=Minori-AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/namitkumar22/Stock-Buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=namitkumar22&repo=Stock-Buddy&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/namitkumar22/Nayan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=namitkumar22&repo=Nayan&theme=tokyonight&hide_border=true" />
-</a>
+**🌾 [Minori AI](https://github.com/namitkumar22/Minori-AI)** &nbsp; `Python` `Deep Learning` `Computer Vision` `Groq`
 
-</div>
+CNN-based crop disease detection for wheat and rice (5 diseases each), paired with a RAG-powered treatment guidance engine and an end-to-end GUI built for real-world farm use in Uttarakhand.
 
-| Project | Highlight |
-|---|---|
-| 🌾 **[Minori AI](https://github.com/namitkumar22/Minori-AI)** | CNN-based crop disease detection (wheat & rice, 5 diseases each) + RAG-powered treatment guidance, packaged in an end-to-end GUI for real-world farm use |
-| 📈 **[Stock Buddy](https://github.com/namitkumar22/Stock-Buddy)** | Batch-based stock prediction pipeline with linear regression, live-updating "Top Predicted" table with continuous evaluation |
-| 👁️ **[Nayan](https://github.com/namitkumar22/Nayan)** | Real-time assistive navigation for the visually impaired — live camera feed → Groq-hosted VLM → step-by-step voice guidance |
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**📈 [Stock Buddy](https://github.com/namitkumar22/Stock-Buddy)** &nbsp; `Python` `Machine Learning`
+
+Batch-based stock prediction pipeline using linear regression on 2 years of data, with a continuously updating "Top Predicted" table ranking the top 5 profitable stocks per batch.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**👁️ [Nayan](https://github.com/namitkumar22/Nayan)** &nbsp; `Python` `Computer Vision` `Generative AI` `Groq`
+
+Real-time assistive navigation for the visually impaired — routes live camera frames to a Groq-hosted vision-language model and converts scene understanding into step-by-step voice guidance.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -103,10 +113,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namitkumar22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namitkumar22&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="metrics.svg" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitkumar22&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=namitkumar22&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -121,12 +130,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/namitkumar22/namitkumar22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=namitkumar22&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+<!-- Note: the thin empty row above the grid is intentional padding baked into the generated SVG (mirrors GitHub's own calendar spacing) — not a rendering error. -->
 
 <br/>
 
