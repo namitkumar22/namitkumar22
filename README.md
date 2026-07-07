@@ -116,6 +116,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=namitkumar22&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/namitkumar22/namitkumar22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
 ### 🏆 Trophies
 
 <div align="center">
