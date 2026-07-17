@@ -125,13 +125,6 @@ Real-time assistive navigation for the visually impaired — routes live camera 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=namitkumar22&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/namitkumar22/namitkumar22/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<!-- Note: the thin empty row above the grid is intentional padding baked into the generated SVG (mirrors GitHub's own calendar spacing) — not a rendering error. -->
-
 <br/>
 
 ## 🎓 Achievements
