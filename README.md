@@ -2,7 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=180&section=header&text=Namit%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Developer%20%E2%80%A2%20Agents%2C%20RAG%20%26%20LLM%20Systems%20at%20Scale&descAlignY=58&descSize=16" width="100%"/>
 
-<sub>📍 Roorkee, India&nbsp; · &nbsp;✉️ <a href="mailto:namitkumar2208@gmail.com">namitkumar2208@gmail.com</a>&nbsp; · &nbsp;<a href="https://www.linkedin.com/in/namit-kumar-dev/">LinkedIn</a>&nbsp; · &nbsp;<a href="https://www.kreeo.in/namit">Portfolio</a></sub>
+<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:namitkumar2208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/namitkumar22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.kreeo.in/namit"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+<br/>
+<sub>📍 Roorkee, India</sub>
 
 </div>
 
@@ -25,7 +31,6 @@ else:
 
 - 🛠️ Building **Research Paper Agent** — an autonomous pipeline (LangChain · DeepAgents · MCP · RAG) that turns a title + references into a fully formatted IEEE/ACM paper, complete with tables, graphs, and equations
 - 🧑‍💻 Leading AI/ML strategy for a 20-member team at **CodeX Club**
-- 📈 Exploring self-hosted LLM infra — serverless GPUs, vLLM, and cost-efficient inference
 
 <br/>
 
