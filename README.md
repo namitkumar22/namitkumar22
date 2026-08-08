@@ -1,49 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=180&section=header&text=Namit%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Developer%20%E2%80%A2%20LangGraph%2C%20RAG%20%26%20LLM%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=180&section=header&text=Namit%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Developer%20%E2%80%A2%20Agents%2C%20RAG%20%26%20LLM%20Systems%20at%20Scale&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:namitkumar2208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.kreeo.in/namit"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/namitkumar22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<sub>📍 Roorkee, India&nbsp; · &nbsp;✉️ <a href="mailto:namitkumar2208@gmail.com">namitkumar2208@gmail.com</a>&nbsp; · &nbsp;<a href="https://www.linkedin.com/in/namit-kumar-dev/">LinkedIn</a>&nbsp; · &nbsp;<a href="https://www.kreeo.in/namit">Portfolio</a></sub>
 
 </div>
 
 <br/>
 
-## About
+### 👋 A little about me
 
-- Tech Lead @ CodeX Club — leading a 20-member team across AI/ML projects, owning technical direction from design through deployment
-- Building production AI agents, multi-agent systems (LangGraph), and RAG pipelines for real-world applications
-- Former AI Intern @ Digitianera — shipped a Llama-3.2-90B chatbot on Groq's LPU with sub-5s response times
-- 4× Hackathon Winner · Organizer, HackIndia Spark 9.0 (2025)
-- B.Tech CSE (AI/ML), Quantum University — Class of 2027
+I build things that think for themselves — autonomous agents, RAG pipelines, and multi-agent systems that go from idea to production. Currently leading a 20-member team at **CodeX Club** as Tech Lead, and deep in building **Research Paper Agent**, a system that turns a title into a fully-written, publication-ready paper.
 
-<br/>
-
-## Tech Stack
-
-**Languages** &nbsp; Python · C · SQL
-
-**AI / ML & GenAI** &nbsp; LangChain · LangGraph · TensorFlow · Scikit-learn · OpenAI · Claude · Hugging Face · Groq
-
-**Backend & Data** &nbsp; FastAPI · Streamlit · Pandas · NumPy
-
-**DevOps & Cloud** &nbsp; Docker · Git · GitHub Actions · Google Cloud
+```
+if problem.is_generic() or problem.commercial_value == 0:
+    skip()
+else:
+    ship_it()
+```
 
 <br/>
 
-## Featured Projects
+## 🧭 Currently
 
-| Project | Stack | Description |
-|---|---|---|
-| **[Minori AI](https://github.com/namitkumar22/Minori-AI)** | Python, CNN, Groq | CNN-based crop disease detection (wheat & rice) with a RAG-powered treatment guidance engine and end-to-end GUI |
-| **[Stock Buddy](https://github.com/namitkumar22/Stock-Buddy)** | Python, ML | Batch-based stock prediction pipeline using linear regression, ranking top 5 predicted stocks per batch |
-| **[Nayan](https://github.com/namitkumar22/Nayan)** | Python, CV, Groq | Real-time assistive navigation for the visually impaired via Groq-hosted VLM and voice guidance |
+- 🛠️ Building **Research Paper Agent** — an autonomous pipeline (LangChain · DeepAgents · MCP · RAG) that turns a title + references into a fully formatted IEEE/ACM paper, complete with tables, graphs, and equations
+- 🧑‍💻 Leading AI/ML strategy for a 20-member team at **CodeX Club**
+- 📈 Exploring self-hosted LLM infra — serverless GPUs, vLLM, and cost-efficient inference
 
 <br/>
 
-## GitHub Analytics
+## 💼 Experience
+
+**Tech Lead** · CodeX Club &nbsp;<sub>Mar 2025 – Present</sub>
+Leading a 20-member team across AI/ML projects end-to-end. Built a RAG-based chatbot that reads uploaded academic material and predicts likely exam questions.
+
+**AI Intern** · Digitianera &nbsp;<sub>Jul 2024 – Aug 2024</sub>
+Benchmarked OpenAI, Hugging Face, and Groq for chatbot deployment, then shipped a Llama-3.2-90B chatbot on Groq's LPU — cutting response time to under 5 seconds.
+
+<br/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="100%">
+
+**🧠 Research Paper Agent** &nbsp; `LangChain` `DeepAgents` `MCP` `RAG` `FastAPI` `Supabase` `Next.js`
+
+Autonomous system that turns a title and reference docs into a publication-ready paper — LLM semantic parsing + RAG over a global vector DB + a Deep Agent (via MCP tools) generating content, tables, graphs, and equations, exported to PDF/DOCX. Powered by **RotatingLLM**, a self-built linked-list-based orchestration layer that fails over across models on rate-limits/errors mid-task for zero-downtime completion.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🌾 Minori AI** &nbsp; `Python` `Deep Learning` `Computer Vision` `RAG` `Groq`
+
+CNN-based disease detection for wheat and rice (5 diseases each), paired with a RAG-powered treatment guidance engine and an end-to-end GUI built for real-world farm use in Uttarakhand.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Stack
+
+<div align="center">
+
+`Python` `C` `SQL`&nbsp; | &nbsp;`LangChain` `LangGraph` `DeepAgents` `MCP` `RAG` `Guardrails`&nbsp; | &nbsp;`FastAPI` `Scikit-learn` `Pandas` `NumPy`
+`OpenAI` `Claude` `Hugging Face` `Groq` `ElevenLabs` `Vapi`&nbsp; | &nbsp;`Docker` `Git` `GCP` `Supabase`
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=namitkumar22&theme=tokyonight&hide_border=true" width="55%"/>
@@ -51,18 +83,15 @@
 
 <br/>
 
-## Achievements
+## 🏆 Achievements
 
-- 4× Hackathon Winner
-- Organizer — HackIndia Spark 9.0 (2025)
-- Machine Learning A-Z & Artificial Intelligence A-Z Certified (SuperDataScience, Udemy)
-- 200+ problems solved on LeetCode & Code360
+4× Hackathon Winner &nbsp;·&nbsp; Organizer, HackIndia Spark 9.0 (2025) &nbsp;·&nbsp; ML A-Z & AI A-Z Certified (SuperDataScience) &nbsp;·&nbsp; 200+ problems on LeetCode & Code360 &nbsp;·&nbsp; 20+ Projects on GitHub
 
 <br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<sub>Open to opportunities in Agentic AI · always down to talk shop about agents, RAG, or LLM infra</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=80&section=footer" width="100%"/>
 
