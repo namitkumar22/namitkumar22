@@ -8,7 +8,6 @@
 <a href="https://www.kreeo.in/namit"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 <br/>
-<sub>📍 Roorkee, India</sub>
 
 </div>
 
@@ -31,16 +30,6 @@ else:
 
 - 🛠️ Building **Research Paper Agent** — an autonomous pipeline (LangChain · DeepAgents · MCP · RAG) that turns a title + references into a fully formatted IEEE/ACM paper, complete with tables, graphs, and equations
 - 🧑‍💻 Leading AI/ML strategy for a 20-member team at **CodeX Club**
-
-<br/>
-
-## 💼 Experience
-
-**Tech Lead** · CodeX Club &nbsp;<sub>Mar 2025 – Present</sub>
-Leading a 20-member team across AI/ML projects end-to-end. Built a RAG-based chatbot that reads uploaded academic material and predicts likely exam questions.
-
-**AI Intern** · Digitianera &nbsp;<sub>Jul 2024 – Aug 2024</sub>
-Benchmarked OpenAI, Hugging Face, and Groq for chatbot deployment, then shipped a Llama-3.2-90B chatbot on Groq's LPU — cutting response time to under 5 seconds.
 
 <br/>
 
