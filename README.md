@@ -1,150 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=Namit%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Agents%2C%20RAG%20%26%20LLM%20Systems&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=180&section=header&text=Namit%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Developer%20%E2%80%A2%20LangGraph%2C%20RAG%20%26%20LLM%20Systems&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://github.com/namitkumar22">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Tech+Lead+%40+CodeX+Club;LangChain+%2F+LangGraph+%2F+RAG+Pipelines;Self-hosting+LLMs+on+Serverless+GPUs;4x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:namitkumar2208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.kreeo.in/namit"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/namitkumar22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:namitkumar2208@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kreeo.in/namit"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/namitkumar22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## About
 
-- 🔭 **Tech Lead @ CodeX Club** — leading a 20-member team across AI/ML projects, owning technical direction from ideation through deployment
-- 🧠 Building production-ready **AI agents**, multi-agent systems (**LangGraph**), and **RAG pipelines** for real-world use cases
-- ⚡ Previously interned at **Digitianera**, shipping a Llama-3.2-90B chatbot on Groq's LPU with sub-5s response times
-- 🌱 Currently deep in **LLM infra** — self-hosting open models cheaply on serverless GPUs (Modal + vLLM)
-- 🏆 **4× Hackathon Winner** | Organizer — HackIndia Spark 9.0 (2025)
-- 📚 B.Tech CSE (AI/ML) @ Quantum University — Class of 2027
-- 💻 200+ problems solved on **LeetCode** & **Code360**
+- Tech Lead @ CodeX Club — leading a 20-member team across AI/ML projects, owning technical direction from design through deployment
+- Building production AI agents, multi-agent systems (LangGraph), and RAG pipelines for real-world applications
+- Former AI Intern @ Digitianera — shipped a Llama-3.2-90B chatbot on Groq's LPU with sub-5s response times
+- 4× Hackathon Winner · Organizer, HackIndia Spark 9.0 (2025)
+- B.Tech CSE (AI/ML), Quantum University — Class of 2027
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+**Languages** &nbsp; Python · C · SQL
+
+**AI / ML & GenAI** &nbsp; LangChain · LangGraph · TensorFlow · Scikit-learn · OpenAI · Claude · Hugging Face · Groq
+
+**Backend & Data** &nbsp; FastAPI · Streamlit · Pandas · NumPy
+
+**DevOps & Cloud** &nbsp; Docker · Git · GitHub Actions · Google Cloud
+
+<br/>
+
+## Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **[Minori AI](https://github.com/namitkumar22/Minori-AI)** | Python, CNN, Groq | CNN-based crop disease detection (wheat & rice) with a RAG-powered treatment guidance engine and end-to-end GUI |
+| **[Stock Buddy](https://github.com/namitkumar22/Stock-Buddy)** | Python, ML | Batch-based stock prediction pipeline using linear regression, ranking top 5 predicted stocks per batch |
+| **[Nayan](https://github.com/namitkumar22/Nayan)** | Python, CV, Groq | Real-time assistive navigation for the visually impaired via Groq-hosted VLM and voice guidance |
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-**AI / ML & Generative AI**
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vapi-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vercel_v0-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-**Backend, Data & Tooling**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-**DevOps & Cloud**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+<img src="https://streak-stats.demolab.com/?user=namitkumar22&theme=tokyonight&hide_border=true" width="55%"/>
 </div>
 
 <br/>
 
-## 🌟 Featured Projects
+## Achievements
 
-<table>
-<tr>
-<td width="100%">
-
-**🌾 [Minori AI](https://github.com/namitkumar22/Minori-AI)** &nbsp; `Python` `Deep Learning` `Computer Vision` `Groq`
-
-CNN-based crop disease detection for wheat and rice (5 diseases each), paired with a RAG-powered treatment guidance engine and an end-to-end GUI built for real-world farm use in Uttarakhand.
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**📈 [Stock Buddy](https://github.com/namitkumar22/Stock-Buddy)** &nbsp; `Python` `Machine Learning`
-
-Batch-based stock prediction pipeline using linear regression on 2 years of data, with a continuously updating "Top Predicted" table ranking the top 5 profitable stocks per batch.
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**👁️ [Nayan](https://github.com/namitkumar22/Nayan)** &nbsp; `Python` `Computer Vision` `Generative AI` `Groq`
-
-Real-time assistive navigation for the visually impaired — routes live camera frames to a Groq-hosted vision-language model and converts scene understanding into step-by-step voice guidance.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="metrics.svg" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=namitkumar22&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namitkumar22&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br/>
-
-## 🎓 Achievements
-
-- 🏆 4× Hackathon Winner
-- 🎤 Organizer — HackIndia Spark 9.0 (2025)
-- 📜 Machine Learning A-Z & Artificial Intelligence A-Z Certified (SuperDataScience — Udemy)
-- 💻 200+ problems solved on LeetCode & Code360
-- 📁 20+ Projects on GitHub
+- 4× Hackathon Winner
+- Organizer — HackIndia Spark 9.0 (2025)
+- Machine Learning A-Z & Artificial Intelligence A-Z Certified (SuperDataScience, Udemy)
+- 200+ problems solved on LeetCode & Code360
 
 <br/>
 
 <div align="center">
 
-### 💬 Let's build something intelligent together
+<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/namit-kumar-dev/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=namitkumar22&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=80&section=footer" width="100%"/>
 
 </div>
