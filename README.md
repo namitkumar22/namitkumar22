@@ -27,7 +27,7 @@ else:
 
 ## 🧭 Currently
 
-- 🛠️ Building **Research Paper Agent** — an autonomous pipeline (LangChain · DeepAgents · MCP · RAG) that turns a title + references into a fully formatted IEEE/ACM paper, complete with tables, graphs, and equations
+- 🛠️ Building **Phoenix** — an autonomous pipeline (LangChain · DeepAgents · MCP · RAG) that turns a title + references into a fully formatted IEEE/ACM paper, complete with tables, graphs, and equations
 - 🧑‍💻 Leading AI/ML strategy for a 20-member team at **CodeX Club**
 
 <br/>
