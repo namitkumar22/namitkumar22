@@ -38,7 +38,7 @@ else:
 <tr>
 <td width="100%">
 
-**🧠 Research Paper Agent** &nbsp; `LangChain` `DeepAgents` `MCP` `RAG` `FastAPI` `Supabase` `Next.js`
+**🧠 Phoenix** &nbsp; `LangChain` `DeepAgents` `MCP` `RAG` `FastAPI` `Supabase` `Next.js`
 
 Autonomous system that turns a title and reference docs into a publication-ready paper — LLM semantic parsing + RAG over a global vector DB + a Deep Agent (via MCP tools) generating content, tables, graphs, and equations, exported to PDF/DOCX. Powered by **RotatingLLM**, a self-built linked-list-based orchestration layer that fails over across models on rate-limits/errors mid-task for zero-downtime completion.
 
