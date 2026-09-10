@@ -68,14 +68,6 @@ CNN-based disease detection for wheat and rice (5 diseases each), paired with a 
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=namitkumar22&theme=tokyonight&hide_border=true" width="55%"/>
-</div>
-
-<br/>
-
 ## 🏆 Achievements
 
 4× Hackathon Winner &nbsp;·&nbsp; Organizer, HackIndia Spark 9.0 (2025) &nbsp;·&nbsp; ML A-Z & AI A-Z Certified (SuperDataScience) &nbsp;·&nbsp; 200+ problems on LeetCode & Code360 &nbsp;·&nbsp; 20+ Projects on GitHub
