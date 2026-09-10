@@ -76,7 +76,7 @@ CNN-based disease detection for wheat and rice (5 diseases each), paired with a 
 
 <div align="center">
 
-<sub>Open to opportunities in Agentic AI · always down to talk shop about agents, RAG, or LLM infra</sub>
+<sub>Open to opportunities in Agentic AI · always down to talk about Agents, RAG, or Scalable Agentic AI Systems</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=80&section=footer" width="100%"/>
 
